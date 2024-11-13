@@ -1,2 +1,2 @@
 # LUA
-My lua projects
+My LUA projects
