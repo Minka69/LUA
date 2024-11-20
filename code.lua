@@ -1,6 +1,11 @@
-local a = 2
-local b = 5
-local c = a + b
-local name = "Mark"
-print (c)
-print("Hello World, my name is " .. name .. "!")
+name = "Mark"
+age = "16"
+a = (7)
+b = (5)
+c = (a * b)
+d = (b + c)
+e = (c + d)
+f = (d + e)
+sum = (a + b + c + d + e + f)
+multiplication = (a * b * c * d * e * f)
+print("Hello " .. name .. ", you are " .. age .. " years old! " .. "sum of your number are: " .. sum .. " and multiplication: " .. multiplication .. "!")
